@@ -1,0 +1,16 @@
+
+{
+
+    "name": "hello-html-css",
+    "description": "hello wrorl for my html-css project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Gandorphi  ",
+            "email": "eduardogandorphi@outlook.co,"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+    },
+}
